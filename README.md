@@ -1,1 +1,1 @@
-# spring-mvc-basic
+# 김영한님의 스프링 MVC 1편 - 섹션 6 내용입니다
